@@ -1,1 +1,2 @@
-# Tugas_Awal
+# Tugas Awal
+ini Gambar Menggunakan Geogyebra
